@@ -1,2 +1,0 @@
-# DQN
-this is readme
